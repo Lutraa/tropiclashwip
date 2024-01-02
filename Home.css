@@ -132,6 +132,10 @@
 }
 
 @media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 736px;
+  }
+
   .u-section-1 .u-shape-1 {
     margin-right: calc(((100% - 540px) / 2));
   }
@@ -150,6 +154,10 @@
 }
 
 @media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 683px;
+  }
+
   .u-section-1 .u-shape-1 {
     width: 340px;
     margin-right: calc(((100% - 340px) / 2));
